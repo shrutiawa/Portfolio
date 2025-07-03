@@ -149,18 +149,29 @@ export const TechItem = styled.div`
   font-size: 1.7rem;
 `;
 export const OtherSkillsContainer = styled.div`
-display: flex;
-flex-direction:column;
-  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  margin: 2rem 0;
 `;
 
 
 export const OtherSkillsText = styled.p`
-display: flex;
-justify-content: space-between;
   color: #ccc;
   font-size: 1.7rem;
   line-height: 1.6;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
   max-width: 100%;
-  word-break: break-word;
+  word-wrap: break-word;
+  white-space: normal;
+
+  @media (max-width: 768px) {
+    font-size: 1.7rem;
+  }
+`;
+export const SkillSpan = styled.span`
+  display: inline-block;
+  margin-right: 8px;
+  white-space: nowrap;
 `;
