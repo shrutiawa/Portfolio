@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "title": "Frantzen Booking",
+      "description": "Developed a high-performance booking site using Next.js and Tailwind CSS. Integrated with Contentstack CMS and ContentHub for dynamic content management. Deployed on Netlify for fast global delivery.",
+      "image": "/images/fzn website.png",
+      "tags": ["React", "Next.js", "Tailwind CSS","Contentstack","ContentHub","Netlify"],
+      "visit": "",
+      "source": "http://restaurantfzn.com/"
+    },
+    {
+      "title": "Studio FZN",
+      "description": "Built a sleek marketing website using Next.js and Tailwind CSS. Used Contentstack and ContentHub to enable non-developers to manage content. Hosted on Netlify for optimized performance and uptime.",
+      "image": "/images/studio fzn.png",
+      "tags": ["React", "Next.js", "Tailwind CSS","Contentstack","ContentHub","Netlify"],
+      "visit": "",
+      "source": "https://www.studiofrantzendubai.com/"
+    },
+    {
+      "title": "Mentor Mate Application",
+      "description": "Mentor Mate is a full-stack mentorship management platform enabling personalized mentor-mentee interaction and performance tracking. It features role-based dashboards, OKR management, and real-time email notifications. Built with React.js and Spring Boot, it integrates MySQL and Azure for data and media handling.",
+      "image": "/images/mentormate.png",
+      "tags": ["React.js", "Spring Boot (Java)", "JDBC","Flyway for database migrations","MySQL ","Microsoft Azure "],
+      "visit": "https://github.com/shrutiawa/MentorMate/tree/main/CH_2023_Final_POC_Team2-develop",
+      "source": ""
+    },
+    {
+      "title": "Shipkar Bhavan \"Handicraft\"",
+      "description": "E-commerce site built with React and Node.js, using Contentful and Commercetools for product and content management. Integrated Algolia for search, Stripe for payments, and optimized media with Cloudinary. Deployed on Vercel.",
+      "image": "/images/shilpkar.png",
+      "tags": ["React.js", "Node.js", "Contentful","Commercetools","Algolia","Vercel","Stripe","Cloudinary"],
+      "visit": "https://github.com/shrutiawa/Handicraft",
+      "source": "https://shilpkar-bhavan.vercel.app/"
+    },
+    {
+      "title": "MoodMate – Mood Journal with Weather Integration",
+      "description": "MoodMate is a simple, responsive web app where users can track their daily moods using emoji selections, personal notes, and real-time weather data. Entries are saved locally and can be viewed by date or in a list view.",
+      "image": "/images/moodmate.png",
+      "tags": ["React.js", "TypeScript","Tailwind CSS", "Custom Hooks","LocalStorage","React-Calendar","Vercel"],
+      "visit": "https://github.com/shrutiawa/Mood-Journal-with-Weather-Integration",
+      "source": "https://mood-journal-with-weather.vercel.app/"
+    }
+    
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "logo": {
+    "text": "Portfolio",
+    "link": "/"
+  },
+  "navLinks": [
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Technologies", "href": "#tech" },
+    { "label": "About", "href": "#about" }
+  ],
+  "socialLinks": [
+    { "icon": "github", "href": "https://github.com/shrutiawa" },
+    { "icon": "linkedin", "href": "https://www.linkedin.com/in/awasthi-shruti/" },
+    { "icon": "portfolio", "href": "/" }
+  ]
+}

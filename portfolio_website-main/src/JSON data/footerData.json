@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "type": "Call",
+      "value": "+91 9929150386",
+      "href": "tel:9929150386"
+    },
+    {
+      "type": "Email",
+      "value": "shrutiawasthi.sde@gmail.com",
+      "href": "mailto:shrutiawasthi.sde@gmail.com"
+    }
+  ],
+  "slogan": "Code with clarity and purpose",
+  "socialLinks": [
+    { "icon": "github", "href": "https://github.com/shrutiawa" },
+    { "icon": "linkedin", "href": "https://www.linkedin.com/in/awasthi-shruti/" },
+     { "icon": "portfolio", "href": "/" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "description": "I specialize in building performant, responsive web apps using modern tools and frameworks. Here's what I work with regularly as I continue expanding into full-stack development.",
+  "technologies": [
+    { "name": "ReactJs", "icon": "/images/react-1-logo.svg" },
+    { "name": "NextJs", "icon": "/images/icon.jpeg" },
+    { "name": "VueJs", "icon": "/images/Vue.js_Logo_2.svg.png" },
+    { "name": "HTML5", "icon": "/images/HTML5_Logo.svg" },
+    { "name": "CSS3", "icon": "/images/93779_css3_512x512.png" },
+    { "name": "JavaScript", "icon": "/images/JavaScript_logo_2.svg.png" },
+    { "name": "ES6+", "icon": "/images/es6.svg" },
+    { "name": "Tailwind CSS", "icon": "/images/tailwind.jpeg" },
+    { "name": "TypeScript", "icon": "/images/images.png" },
+    { "name": "NodeJs", "icon": "/images/images (1).png" }
+  ],
+  "otherSkills": [
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "Contentful",
+    "Contentstack",
+    "Netlify",
+    "Vercel",
+    "GraphQL"
+  ]
+}

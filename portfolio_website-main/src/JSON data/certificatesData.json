@@ -1,0 +1,36 @@
+{
+  "certificates": [
+    {
+      "title": "Contentstack Implementation Certification",
+      "image": "/images/Contentstack Certificate.png"
+    },
+    {
+      "title": "Contentful Certified Professional",
+      "image": "/images/Contentful Certificate.png"
+    },
+    {
+      "title":  "MACHathon \"Prototype Pioneers\"",
+      "image": "/images/Machathon certificate.jpg"
+    },
+    {
+      "title": "Algolia Search Engineering Basics",
+      "image": "/images/Algolia certificate.jpg"
+    },
+    {
+      "title": "Akeneo Foundation Certificate Akeneo Academy",
+      "image": "/images/Akeneo Certificate.png"
+    },
+    {
+      "title": "MACH Mindset",
+      "image": "/images/MACH Mindset.png"
+    },
+    {
+      "title": "Modern Tech with MACH",
+      "image": "/images/Modern Tech with MACH.png"
+    },
+    {
+      "title": "VML MACHathon \"Integration Champion\"",
+      "image": "/images/VML Certificate.png"
+    }
+  ]
+}

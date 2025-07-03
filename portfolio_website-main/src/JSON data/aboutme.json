@@ -1,0 +1,29 @@
+{
+  "description": "I'm a frontend developer skilled in building responsive, high-performance web apps using React and Next.js. I began in QA and am now exploring backend and cloud to grow as a full-stack developer.",
+  "timeline": [
+    {
+      "year": "2019 – 2023",
+      "designation": "B.Tech(CSE)",
+      "company": "VTU",
+      "text": "Completed Computer Science engineering with 9.32 CGPA, gaining a strong base in programming and web development."
+    },
+    {
+      "year": "Nov 2022 – Jan 2023",
+      "designation": "FullStack Developer Intern",
+      "company": "Softmantissa",
+      "text": "Worked as a full-stack developer to build and deploy a complete website. Gained hands-on experience with React and Node.js."
+    },
+    {
+      "year": "May 2023 – Aug 2023",
+      "designation": "QA Intern",
+      "company": "Netgear",
+      "text": "Automated test cases using Java and Selenium for web and mobile apps. Collaborated on bug tracking using JIRA."
+    },
+    {
+      "year": "Sep 2023 – Present",
+      "designation": "Software Developer",
+      "company": "Valtech",
+      "text": "Building performance-optimized, SEO-friendly web applications using React, Next.js, TypeScript, Tailwind CSS, and Headless CMS platforms like Contentful and Contentstack. Collaborating with UI/UX teams and backend developers to deliver scalable, accessible, and responsive digital experiences."
+    }
+  ]
+}
